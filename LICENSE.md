@@ -39,8 +39,8 @@ A separate End User License Agreement (EULA) will govern the distributed version
 ---
 
 ## Contact  
-For permissions, licensing inquiries, or collaboration proposals, please contact:  
-📧 [your email here]  
+For permissions, licensing inquiries, or collaboration proposals, please contact, through LinkedIn
+
 
 ---
 
