@@ -66,7 +66,7 @@ Open an issue or submit a pull request if you’d like to get involved.
 ---
 
 ## 📜 License  
-This project is under **[Specify License Here]**.  
+This project is under **Prahlad Kumar Jha**.  
 All artwork, lore, and source code are reserved to the development team unless otherwise noted.  
 
 ---
