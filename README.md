@@ -41,3 +41,55 @@ It’s whether humanity deserves to.
 ## 🛠️ Repository Structure  
 This repository will serve as the **complete development hub** for *The Shift: Prologue*.  
 
+📂 The-Shift-Prologue
+┣ 📁 Concept-Art # Character designs, environment sketches, enemy concepts
+┣ 📁 3D-Models # Game-ready models & animations
+┣ 📁 Lore-Archives # Worldbuilding documents, narrative scripts, codex entries
+┣ 📁 Source-Code # Core game code, systems, mechanics, AI, etc.
+┣ 📁 Assets # Audio, textures, shaders, VFX
+┣ 📄 README.md # Project overview (this file)
+┗ 📄 LICENSE # Licensing info
+-----
+
+---
+
+## 🚧 Development Status  
+🔹 **Early Development Phase**  
+- Lore, concepts, and narrative design in progress  
+- Initial 3D modeling and world prototypes underway  
+- Core mechanics being drafted in source code  
+
+> This repository will be regularly updated with **artwork, code commits, and design documents** as the project evolves.  
+
+---
+
+## 🌌 Themes & Inspirations  
+- Cosmic dread of **Lovecraftian horror**  
+- Survival mechanics of **post-apocalyptic RPGs**  
+- Narrative depth inspired by **Disco Elysium**, **Dark Souls**, and **S.T.A.L.K.E.R.**  
+- Visual tone influenced by **HR Giger** and **Junji Ito**  
+
+---
+
+## 🤝 Contributing  
+This is an **open development project**. Contributions, ideas, and feedback are welcome.  
+- Artists can share concepts  
+- Developers can help refine mechanics  
+- Writers can expand lore entries  
+
+Please open an issue or submit a pull request to get involved.  
+
+---
+
+## 📜 License  
+This project is currently under **[Specify License Here]**.  
+All rights for artwork, lore, and source code are reserved to the development team.  
+
+---
+
+## ⚠️ Disclaimer  
+This game is in active development. All assets, mechanics, and story details are subject to change.  
+
+---
+**The Shift wasn’t the end.**  
+*It was the prologue.*  
