@@ -8,8 +8,7 @@
 ## Copyright Notice  
 © 2025 Prahlad Kumar Jha. All rights reserved.  
 
-This repository and all of its contents (including **source code, 3D models, textures, audio, lore, scripts, concept art, and documentation**) are the exclusive intellectual property of [Your Name or Studio].  
-
+This repository and all of its contents (including **source code, 3D models, textures, audio, lore, scripts, concept art, and documentation**) are the exclusive intellectual property of Prahhlad Kumar Jha
 ---
 
 ## Usage Terms  
